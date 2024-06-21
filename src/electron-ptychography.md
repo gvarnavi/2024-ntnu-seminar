@@ -288,7 +288,7 @@ function return_probe_dictionary(includes_probe) {
 
     return {
       label: "Probe Intensity",
-      scheme: "Greys",
+      scheme: "magma",
       domain: [0, probe_normalization],
       width: probe_intensity.shape[1],
       height: probe_intensity.shape[0],

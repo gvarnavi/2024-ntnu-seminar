@@ -322,8 +322,8 @@ const viz_inputs_a = view(
 const viz_inputs_b = view(
   Inputs.form({
     defocus: Inputs.range([-250, 250], {
-      value: 150,
-      step: 1,
+      value: 0,
+      step: 5,
       label: "defocus, Å",
     }),
 

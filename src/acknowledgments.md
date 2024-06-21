@@ -13,4 +13,3 @@ const bubbleheads_svg = FileAttachment(
 # Acknowledgments
 
 <div id="py4dstem-container"> ${bubbleheads_svg} </div>
-

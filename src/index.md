@@ -39,6 +39,6 @@ import { return_resized_img } from "./components/ImageUtilities.js";
 ::: hero
 
 Georgios Varnavides | National Center for Electron Microscopy  
-Follow along!  https://gvarnavides.com/2024-ntnu-seminar/
+Follow along! https://gvarnavides.com/2024-ntnu-seminar/
 
 :::

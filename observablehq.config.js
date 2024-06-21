@@ -11,7 +11,7 @@ const head = `
 `;
 
 export default {
-  title: "NTNU Seminar, TEM Gemini Center",
+  title: "NTNU, TEM Gemini Center",
   head: head,
   root: "src",
   theme: "dark",
